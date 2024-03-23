@@ -1,0 +1,5 @@
+name: case-insensitive-commands
+version: '${version}'
+main: me.ponktacology.commands.CaseInsensitiveCommands
+api-version: '1.19'
+author: ponktacology
